@@ -4,9 +4,15 @@
 
 <p align="center">
     <a>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=🏆+Winner:+Best+Innovation+Award;👁️+Empowering+the+Visually+Impaired;🚶+Voice-Guided+Smart+Navigation;🚨+Real-Time+Obstacle+Detection+&+SOS" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F39C12&center=true&vCenter=true&width=600&lines=Winner:+Best+Innovation+Award;Empowering+The+Visually+Impaired;Smart+Voice-Guided+Navigation;Real-Time+Emergency+SOS" alt="Features Overview" />
     </a>
 </p>
+
+<!-- Live Application Demo Walkthrough -->
+<div align="center">
+  <h2>👀 See It In Action (Demo Preview)</h2>
+  <img src="demo.webp" width="700" alt="Sahayak Demo Application Walkthrough" style="border-radius:15px; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" />
+</div>
 
 <div align="center">
   <a href="#about">About</a> •
